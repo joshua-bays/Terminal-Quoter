@@ -1,0 +1,14 @@
+The Joshua Bays Bible Quiz Quoting App
+Author: Joshua Bays
+
+	Greetings!
+	
+	Thank you for choosing to use my quoting app. I apologize for its rudimentary design and code, as I scrapped it together over an afternoon and I did not do much work in order to add other features or optimize the code. The main purpose of the app is to allow for one to easily review his or her Bible Quizzing verses (though this program could aid in review of other material as well).
+
+	Important Notes:
+		1. One must have the Ncurses library (usually labeled libncurses in package repositories) installed for the application to run
+		2. When running the executable, one must have the source file (verses.txt) in the same directory
+		3. If the verse typed is not at least 90% accurate, it will be shown later on
+		4. No progress is saved in between sessions of app usage
+
+	I thank you once again and hope you have a nice day.
